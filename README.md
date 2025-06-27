@@ -15,12 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi there! I'm a Data Analyst and Researcher at [Cefas](https://www.cefas.co.uk/), where I use my skills in R to support a range of projects on aquaculture, fisheries, and the aquatic environment.
+Hi there! I'm a Fisheries at [Cefas](https://www.cefas.co.uk/), where I work on Southern Ocean and other international fisheries.
 
 ## What am I up to? 🐟
 
-- Simulating disease spread across aquaculture networks with [aquanet](https://github.com/CefasRepRes/aquanet) and [aquanet-mod](https://github.com/CefasRepRes/aquanet-mod).
-- Supporting the [One Food programme](https://onefoodcommunity.org/).
 - Analysing [ornamental fish imports](https://cites.org/sites/default/files/documents/E-CoP19-Inf-68.pdf) into the UK.
 
 ## Education 🎓
@@ -36,7 +34,6 @@ Hi there! I'm a Data Analyst and Researcher at [Cefas](https://www.cefas.co.uk/)
 ## Contact details 📧
 
 - sarah.alewijnse@cefas.gov.uk
-- @ScienceSAL
 
 ## Publications 📜
 
@@ -44,3 +41,8 @@ Hi there! I'm a Data Analyst and Researcher at [Cefas](https://www.cefas.co.uk/)
 - Guilder, J., Ryder, D., Taylor, N.G., **Alewijnse, S.R.**, Millard, R.S., Thrush, M.A., Peeler, E.J. and Tidbury, H.J., 2023. The aquaculture disease network model (AquaNet-Mod): A simulation model to evaluate disease spread and controls for the salmonid industry in England and Wales. _Epidemics_, 44, p.100711.
 - **Alewijnse, S.R.**, Stowasser, G., Saunders, R.A., Belcher, A., Crimmen, O.A., Cooper, N. and Trueman, C.N., 2021. Otolith-derived field metabolic rates of myctophids (Family Myctophidae) from the Scotia Sea (Southern Ocean). _Marine Ecology Progress Series_, 675, pp.113-131.
 - **Alewijnse, S.R.** and Wells, R.J., 2020. Diet of the Blacktip Shark (_Carcharhinus limbatus_) in the Northwestern Gulf of Mexico. _Gulf and Caribbean Research_, 31(1), pp.SC25-SC30.
+
+## Previous work 🐡
+
+- Simulated disease spread across aquaculture networks with [aquanet](https://github.com/CefasRepRes/aquanet) and [aquanet-mod](https://github.com/CefasRepRes/aquanet-mod).
+- Supported the [One Food programme](https://onefoodcommunity.org/).
