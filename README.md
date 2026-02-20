@@ -25,6 +25,7 @@ Hi there! I'm a Fisheries Scientist at [Cefas](https://www.cefas.co.uk/), where 
 
 [Google Scholar](https://scholar.google.com/citations?user=mPQpvn0AAAAJ&hl=en)
 
+- **Alewijnse, S. R.**, Christison, K. W., Capuzzo, E. and Witt, J., 2026. Do you study what you eat? Comparing South African aquatic food production statistics with research. *Aquaculture Fish and Fisheries* 2026; 6:e70160.
 - Dhanji-Rapkova, M., Hatfield, R. G., Walker, D. I., Hooper, C., **Alewijnse, S.**, Baker-Austin, C., Turner, A. D. and Ritchie, J. M., 2024. Investigating non-native ribbon worm *Cephalothrix simula* as a potential source of tetrodotoxin in British Bivalve Shellfish. *Marine Drugs*, 22(10), p.458.
 - Wainwright, T., Trevena, M., **Alewijnse, S.R.**, Campbell, P.D., Jones, M.E., Streicher, J.W. and Cooper, N., 2023. Sex biases and the scarcity of sex metadata in global herpetology collections. _Biological Journal of the Linnean Society_, p.blad129.
 - Guilder, J., Ryder, D., Taylor, N.G., **Alewijnse, S.R.**, Millard, R.S., Thrush, M.A., Peeler, E.J. and Tidbury, H.J., 2023. The aquaculture disease network model (AquaNet-Mod): A simulation model to evaluate disease spread and controls for the salmonid industry in England and Wales. _Epidemics_, 44, p.100711.
