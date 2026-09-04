@@ -25,6 +25,8 @@ Hi there! I'm a Fisheries Scientist at [Cefas](https://www.cefas.co.uk/), where 
 
 [Google Scholar](https://scholar.google.com/citations?user=mPQpvn0AAAAJ&hl=en)
 
+- Murray, J., **Alewijnse, S., R**, Harrod, O., Hughes, D., MacMillan, I., Popham, C., Roebuck, E., 2026. A high-resolution species-level dataset of global marine ornamental imports into the United Kingdom. *Scientific Data*.
+- Marsh, J. E., **Alewijnse, S. R.**, Gregory, S., Hollyman, P., Söffker, M., 2026. Estimating Patagonian toothfish (*Dissostichus eleginoides*) length at first maturity from their age, sex and temperature experience in South Georgia. *Journal of Fish Biology*. 1-14. 
 - **Alewijnse, S. R.**, Christison, K. W., Capuzzo, E. and Witt, J., 2026. Do you study what you eat? Comparing South African aquatic food production statistics with research. *Aquaculture Fish and Fisheries* 2026; 6:e70160.
 - Dhanji-Rapkova, M., Hatfield, R. G., Walker, D. I., Hooper, C., **Alewijnse, S.**, Baker-Austin, C., Turner, A. D. and Ritchie, J. M., 2024. Investigating non-native ribbon worm *Cephalothrix simula* as a potential source of tetrodotoxin in British Bivalve Shellfish. *Marine Drugs*, 22(10), p.458.
 - Wainwright, T., Trevena, M., **Alewijnse, S.R.**, Campbell, P.D., Jones, M.E., Streicher, J.W. and Cooper, N., 2023. Sex biases and the scarcity of sex metadata in global herpetology collections. _Biological Journal of the Linnean Society_, p.blad129.
